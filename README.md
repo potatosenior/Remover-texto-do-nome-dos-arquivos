@@ -1,0 +1,1 @@
+# Remover-texto-do-nome-dos-arquivos
